@@ -1,6 +1,6 @@
 # Sci-fi-Menu
 
-About a month ago (June 2019) I got to the visual and dinamic CSS effects in my studies. That menu is the result of testing my new abilities at that time :D
+About a month ago (June 2019) I got to the visual and dinamic CSS effects in my studies. This menu is the result of testing my new abilities at that time :D
 
 <hr>
 
